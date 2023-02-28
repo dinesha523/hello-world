@@ -1,5 +1,5 @@
 <form action="action_page.php">
-  <div style="background-color:rgb(215, 248, 250);" class="container">
+  <div style="background-color:rgb(250, 240, 215);" class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
